@@ -1,0 +1,15 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\bin\Debug\net6.0\intro-dotnet.exe
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\bin\Debug\net6.0\intro-dotnet.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\bin\Debug\net6.0\intro-dotnet.runtimeconfig.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\bin\Debug\net6.0\intro-dotnet.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\bin\Debug\net6.0\intro-dotnet.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\refint\intro-dotnet.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\intro-dotnet.genruntimeconfig.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\intro-dotnet\obj\Debug\net6.0\ref\intro-dotnet.dll
