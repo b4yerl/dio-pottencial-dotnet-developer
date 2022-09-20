@@ -1,0 +1,15 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.exe
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.runtimeconfig.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\refint\OperadoresAtribuicao.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.genruntimeconfig.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\OperadoresAtribuicao\obj\Debug\net6.0\ref\OperadoresAtribuicao.dll
