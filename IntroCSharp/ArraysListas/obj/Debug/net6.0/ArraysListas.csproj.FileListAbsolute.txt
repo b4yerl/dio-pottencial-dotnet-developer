@@ -1,0 +1,15 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\bin\Debug\net6.0\ArraysListas.exe
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\bin\Debug\net6.0\ArraysListas.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\bin\Debug\net6.0\ArraysListas.runtimeconfig.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\bin\Debug\net6.0\ArraysListas.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\bin\Debug\net6.0\ArraysListas.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\refint\ArraysListas.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ArraysListas.genruntimeconfig.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ArraysListas\obj\Debug\net6.0\ref\ArraysListas.dll

@@ -1,0 +1,12 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\bin\Debug\net6.0\ExemplosFundamentos.Common.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\bin\Debug\net6.0\ExemplosFundamentos.Common.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\bin\Debug\net6.0\ExemplosFundamentos.Common.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\refint\ExemplosFundamentos.Common.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharp\ExemplosFundamentos.Common\obj\Debug\net6.0\ref\ExemplosFundamentos.Common.dll

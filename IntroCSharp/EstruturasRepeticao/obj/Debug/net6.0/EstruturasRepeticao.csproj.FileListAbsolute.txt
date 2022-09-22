@@ -1,0 +1,15 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.exe
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.runtimeconfig.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\refint\EstruturasRepeticao.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.genruntimeconfig.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\EstruturasRepeticao\obj\Debug\net6.0\ref\EstruturasRepeticao.dll
