@@ -1,0 +1,17 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\bin\Debug\net6.0\IntroCSharpII.exe
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\bin\Debug\net6.0\IntroCSharpII.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\bin\Debug\net6.0\IntroCSharpII.runtimeconfig.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\bin\Debug\net6.0\IntroCSharpII.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\bin\Debug\net6.0\IntroCSharpII.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\refint\IntroCSharpII.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.genruntimeconfig.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\ref\IntroCSharpII.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\bin\Debug\net6.0\Newtonsoft.Json.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\IntroCSharpII\obj\Debug\net6.0\IntroCSharpII.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dy/CjyT0aBfFXx5Jz7ilOlEQYZrUEAY2HAyI58tT+N3qDlWOE3wtEfeD9g8SkNHgKKXAVzbdA1e6icSoPJeksw==",
+  "success": true,
+  "projectFilePath": "B:\\guilh\\Documents\\workspace\\dio\\dio-pottencial-dotnet-developer\\IntroCSharpII\\IntroCSharpII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
