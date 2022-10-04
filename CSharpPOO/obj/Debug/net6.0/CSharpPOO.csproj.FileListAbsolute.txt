@@ -1,0 +1,15 @@
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\bin\Debug\net6.0\CSharpPOO.exe
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\bin\Debug\net6.0\CSharpPOO.deps.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\bin\Debug\net6.0\CSharpPOO.runtimeconfig.json
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\bin\Debug\net6.0\CSharpPOO.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\bin\Debug\net6.0\CSharpPOO.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.csproj.AssemblyReference.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.GeneratedMSBuildEditorConfig.editorconfig
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.AssemblyInfoInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.AssemblyInfo.cs
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.csproj.CoreCompileInputs.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\refint\CSharpPOO.dll
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.pdb
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\CSharpPOO.genruntimeconfig.cache
+B:\guilh\Documents\workspace\dio\dio-pottencial-dotnet-developer\CSharpPOO\obj\Debug\net6.0\ref\CSharpPOO.dll
